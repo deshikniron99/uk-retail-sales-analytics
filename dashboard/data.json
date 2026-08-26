@@ -1,0 +1,220 @@
+{
+ "kpis": {
+  "total_revenue": 1722483.0,
+  "total_profit": 485728.0,
+  "total_orders": 24734,
+  "aov": 69.64,
+  "margin_pct": 28.2,
+  "return_rate": 6.5,
+  "yoy_growth": 13.8
+ },
+ "monthly_by_year": {
+  "2023": [
+   44161.0,
+   37325.0,
+   37596.0,
+   36260.0,
+   33201.0,
+   30886.0,
+   44851.0,
+   32731.0,
+   37336.0,
+   44321.0,
+   58536.0,
+   60572.0
+  ],
+  "2024": [
+   52035.0,
+   43970.0,
+   44141.0,
+   40158.0,
+   39596.0,
+   31220.0,
+   50331.0,
+   41645.0,
+   43465.0,
+   50112.0,
+   69779.0,
+   66434.0
+  ],
+  "2025": [
+   55486.0,
+   53878.0,
+   50360.0,
+   44762.0,
+   41550.0,
+   36494.0,
+   56816.0,
+   44719.0,
+   49689.0,
+   56670.0,
+   80639.0,
+   80758.0
+  ]
+ },
+ "category": [
+  {
+   "category": "Electronics",
+   "revenue": 737790.7,
+   "margin_pct": 17.3,
+   "return_rate": 10.0,
+   "orders": 5412
+  },
+  {
+   "category": "Home & Garden",
+   "revenue": 309402.7,
+   "margin_pct": 34.2,
+   "return_rate": 4.4,
+   "orders": 4040
+  },
+  {
+   "category": "Fashion",
+   "revenue": 266327.8,
+   "margin_pct": 41.2,
+   "return_rate": 9.6,
+   "orders": 4892
+  },
+  {
+   "category": "Sports & Outdoors",
+   "revenue": 171906.1,
+   "margin_pct": 32.3,
+   "return_rate": 4.0,
+   "orders": 2714
+  },
+  {
+   "category": "Beauty & Personal Care",
+   "revenue": 110517.0,
+   "margin_pct": 47.3,
+   "return_rate": 4.0,
+   "orders": 3450
+  },
+  {
+   "category": "Toys & Games",
+   "revenue": 84160.4,
+   "margin_pct": 29.2,
+   "return_rate": 4.5,
+   "orders": 2198
+  },
+  {
+   "category": "Books & Media",
+   "revenue": 42378.5,
+   "margin_pct": 24.2,
+   "return_rate": 3.7,
+   "orders": 2028
+  }
+ ],
+ "region": [
+  {
+   "region": "London",
+   "revenue": 411391.0,
+   "orders": 5933
+  },
+  {
+   "region": "South East",
+   "revenue": 278076.0,
+   "orders": 3916
+  },
+  {
+   "region": "North West",
+   "revenue": 206563.0,
+   "orders": 2920
+  },
+  {
+   "region": "West Midlands",
+   "revenue": 158921.0,
+   "orders": 2320
+  },
+  {
+   "region": "Scotland",
+   "revenue": 154112.0,
+   "orders": 2261
+  },
+  {
+   "region": "Yorkshire",
+   "revenue": 146276.0,
+   "orders": 2126
+  },
+  {
+   "region": "East of England",
+   "revenue": 137661.0,
+   "orders": 1981
+  },
+  {
+   "region": "South West",
+   "revenue": 108964.0,
+   "orders": 1593
+  },
+  {
+   "region": "Wales",
+   "revenue": 69682.0,
+   "orders": 988
+  },
+  {
+   "region": "Northern Ireland",
+   "revenue": 50836.0,
+   "orders": 696
+  }
+ ],
+ "segment": [
+  {
+   "customer_segment": "Consumer",
+   "revenue": 1090440.2,
+   "aov": 69.5,
+   "orders": 15685
+  },
+  {
+   "customer_segment": "SME",
+   "revenue": 440736.2,
+   "aov": 69.9,
+   "orders": 6306
+  },
+  {
+   "customer_segment": "Corporate",
+   "revenue": 191306.9,
+   "aov": 69.7,
+   "orders": 2743
+  }
+ ],
+ "promo": [
+  {
+   "period": "Non-promo",
+   "daily_revenue": 1454.1,
+   "margin_pct": 28.9,
+   "revenue": 1467202.1
+  },
+  {
+   "period": "Summer Sale",
+   "daily_revenue": 2190.8,
+   "margin_pct": 24.4,
+   "revenue": 92014.3
+  },
+  {
+   "period": "Black Friday",
+   "daily_revenue": 3553.9,
+   "margin_pct": 24.3,
+   "revenue": 95954.0
+  },
+  {
+   "period": "Boxing Day Sale",
+   "daily_revenue": 3739.6,
+   "margin_pct": 24.0,
+   "revenue": 67312.8
+  }
+ ],
+ "channel": [
+  {
+   "channel": "In-Store",
+   "revenue": 502639.46,
+   "aov": 70.05,
+   "margin_pct": 28.21,
+   "avg_shipping": 0.0
+  },
+  {
+   "channel": "Online",
+   "revenue": 1219843.8,
+   "aov": 69.47,
+   "margin_pct": 28.19,
+   "avg_shipping": 3.98
+  }
+ ]
+}
